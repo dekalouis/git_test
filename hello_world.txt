@@ -1,1 +1,1 @@
-This is a text! I love coding, and I will become a proper developper.
+This is a text! Trying to better understand how to use GIT and GITHUB.
